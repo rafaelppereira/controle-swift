@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply font-poppins bg-swift bg-center bg-cover bg-no-repeat min-h-screen bg-gray-900
+}
