@@ -44,12 +44,12 @@ function App() {
             type="range" 
             min="0" 
             max="100" 
-            value="0" 
+            value="20" 
             step="10" 
             disabled
             className="w-full mt-10 h-2 bg-gray-200 rounded-lg appearance-none dark:bg-gray-600 " 
           />
-          <span className="text-sm text-green-500 mt-4 block animate-pulse">0% do projeto</span>
+          <span className="text-sm text-green-500 mt-4 block animate-pulse">20% do projeto</span>
         </div>
 
         <div className="bg-white px-5 py-4 rounded-lg">
